@@ -213,7 +213,6 @@ class Solution:
 
             if key in dict_anagrams:
                 dict_anagrams[key].append(item)
-
             else:
                 dict_anagrams[key] = [item]
 
