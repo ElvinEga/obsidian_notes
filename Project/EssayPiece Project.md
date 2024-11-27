@@ -54,3 +54,39 @@ https://enhanced-button.vercel.app/
   "client_id": "pgnfidgwuKhlfrh4jRuIirRpvteChDGnga9I4hmj"
 }
 
+Admin
+Create admin Dashboard section where admin can view
+Total Balance Deposited,
+Total Withdrawal,
+Total Refunds,
+
+ - Number of clients
+ - Number of writers
+ - Number of orders
+ Number of 
+Orders in Progress,
+Orders Rejected,
+Orders Pending,
+Orders  Done
+
+
+
+Clients list with top orders with number of orders,
+Top Writers list online,
+
+List of top Subjects with number of orders
+
+Also Add any other statistic that may be needed in the admin dashboard
+
+link sample
+https://www.youtube.com/watch?v=eLtmSLdrREM
+https://microelephant.io/demo/prowriters/admin/tasks
+
+Add Transaction sidebar link with the following sub links:
+Received Payments - This has all the payments done with  id, Date , From , Method (Stripe, Bank Deposit, Cash) with Reference number and Amount
+
+Pending Payment Approvals - like Received payments but with Actions for Approve and Disapprove
+
+Wallet Transactions - This has all the wallet transactions done with  Id, Date , User, Description and Amount
+
+

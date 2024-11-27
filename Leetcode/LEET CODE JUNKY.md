@@ -19,9 +19,9 @@ Python
 # Arrays & Hashing
 
 - [x] Contains Duplicates ✅ 2024-09-26
-- [ ] Valid Anagram
-- [ ] Two Sum
-- [ ] Group Anagram
+- [x] Valid Anagram ✅ 2024-11-16
+- [x] Two Sum ✅ 2024-11-16
+- [x] Group Anagram ✅ 2024-11-16
 - [ ] To K Frequent Elements
 - [ ] Product of Array Except Self
 - [ ] Valid Sudoku
@@ -277,8 +277,8 @@ Given an integer array `nums` and an integer `k`, return *the* `k` *most frequen
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         frequency = {}
-        for s in nums:
-            frequency[s] = frequency.get(s, 0) + 1
+        for n in nums:
+            frequency[n] = frequency.get(n, 0) + 1
         
         #new_nums = {k: v for k, v in sorted(frequency.items(), key=lambda item: item[1])}
 

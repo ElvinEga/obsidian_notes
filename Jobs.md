@@ -43,6 +43,12 @@ The response A is the correct one. It has a function named reverse_number that t
 Tech bros
 https://www.youtube.com/watch?v=EJrPKB25p-0
 https://www.youtube.com/watch?v=zJEygdHBNoE
+https://www.youtube.com/watch?v=Gik1oaMDOxo
+https://www.youtube.com/watch?v=0NEgpZ2zhIs
+https://www.youtube.com/watch?v=RdECvNT-UeY
+https://www.youtube.com/watch?v=ykgmV8e84fQ
+https://www.youtube.com/watch?v=qMTKz4Wa_HI
+https://www.youtube.com/watch?v=rPQQOCq7KFk
 
 
 Ai detectors
@@ -61,3 +67,7 @@ My years of experience have provided me with the tools to master different devel
 Moreover, I have accomplished other things non-technical, such as a UX/UI designer, who is a person with an eye for detail, and knowledge of what makes a great user experience. It is my pleasure to design interfaces that are not only beautiful but also highly functional and easy to operate. This continues to be the training ground through which I have learned to be effective at communicating design concepts among developers to ensure a final product that aligns with intent.
 The opportunity to use my skills and knowledge to contribute to ___ as well as create world-class front-end applications is very tempting to me. I greatly appreciate your review of my application. I’m looking forward to the call when we can talk about how my experiences relate to and your team’s necessary.
 
+Job Leads
+https://talent.remotebase.com/login
+https://javascript.jobs/remote
+https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/details/Software-Engineer-II---60-40-Front-End-Back-End----NBS_R20175

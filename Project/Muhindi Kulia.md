@@ -14,3 +14,6 @@ https://footystats.org/stats/1st-2nd-half-goals
 https://www.stats24.com/football/home-team-to-score-in-1st-half/45  
 
 n8n Ai RAG
+
+mozzart scrap
+https://soccerplatform.com/mozzart-bet-jackpot-for-01-september-2019/

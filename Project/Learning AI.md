@@ -6,3 +6,6 @@ https://jenni.ai/
 https://www.academikai.com/
 
 chinese French
+livekit
+https://github.com/svpino/livekit-assistant
+https://www.youtube.com/watch?v=nvmV0a2geaQ
